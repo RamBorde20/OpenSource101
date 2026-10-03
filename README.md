@@ -2,6 +2,8 @@
 
 # Make Your First Open Source Contribution
 
+A change is made by me haha
+
 Never contributed to open source before?
 
 This repository is for you.
